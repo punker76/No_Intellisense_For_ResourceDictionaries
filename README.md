@@ -13,3 +13,11 @@ Demo for Intellisense bug with targeting .Net Core 3.0 and .Net 4.x
 
 </Project>
 ```
+
+### Environment
+```
+.Net 3.0.100-preview-010157
+Microsoft Visual Studio Enterprise 2019 Preview
+Version 16.0.0 Preview 2.0
+VisualStudio.16.Preview/16.0.0-pre.2.0+28522.59
+```
