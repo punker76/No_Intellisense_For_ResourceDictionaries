@@ -24,3 +24,6 @@ VisualStudio.16.Preview/16.0.0-pre.2.0+28522.59
 
 ### Short video
 https://youtu.be/QAin9A9okkg
+
+### Developer Community
+https://developercommunity.visualstudio.com/content/problem/421582/intellisense-for-xaml-resourcedictionaries-doesnt.html
