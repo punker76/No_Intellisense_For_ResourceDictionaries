@@ -21,3 +21,6 @@ Microsoft Visual Studio Enterprise 2019 Preview
 Version 16.0.0 Preview 2.0
 VisualStudio.16.Preview/16.0.0-pre.2.0+28522.59
 ```
+
+### Short video
+https://youtu.be/QAin9A9okkg
