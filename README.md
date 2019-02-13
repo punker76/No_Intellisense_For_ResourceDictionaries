@@ -27,3 +27,8 @@ https://youtu.be/QAin9A9okkg
 
 ### Developer Community
 https://developercommunity.visualstudio.com/content/problem/421582/intellisense-for-xaml-resourcedictionaries-doesnt.html
+
+### R# YouTrack
+The issue was caused by a bu in 2018.3.2 by R# and is fixed in 2018.3.3
+
+https://youtrack.jetbrains.com/issue/RSRP-473295
